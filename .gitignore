@@ -1,0 +1,69 @@
+# React Native
+node_modules/
+ios/Pods/
+*.keystore
+*.jks
+*.p8
+*.p12
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Android
+/android/.gradle
+/android/app/build
+/android/build
+/android/.idea
+/local.properties
+/gradle/
+/gradlew
+/gradlew.bat
+
+# iOS
+/ios/build/
+/ios/DerivedData/
+/ios/.idea/
+/ios/*.xcworkspace
+xcuserdata
+
+# Expo
+.expo/
+.expo-shared/
+
+# React Native Packager
+.expo/
+.expo-shared/
+.expo-cache/
+*.expo
+
+# VS Code settings
+.vscode/
+
+# Lint
+eslintcache
+
+# Bundler output
+/build/
+/*.bundle
+
+# Test output
+*.test.js
+*.spec.js
+/coverage
+
+# Env files
+.env
+.env.local
+.env.development
+.env.production
+
+# Others
+tmp/
+*.lock
+.idea/
